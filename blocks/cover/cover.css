@@ -1,0 +1,11 @@
+.cover {
+    text-decoration: none;
+    color: #fff;
+    opacity: 1;
+    transition: .5s ease;
+    background-image: url(../../images/cover-trains.jpg);    
+}
+
+.cover:hover {
+    opacity: .5;
+}
