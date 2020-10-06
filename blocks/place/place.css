@@ -1,0 +1,5 @@
+.place {
+    display: grid;
+    grid-template-columns: 460px calc(100% - 460px);
+    margin-bottom: 82px;
+}

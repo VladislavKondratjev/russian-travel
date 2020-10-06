@@ -1,4 +1,4 @@
-.header__lang-link_underline {
+.header__lang-link_active {
     position: absolute;
     right: 94px;
     text-decoration: underline;

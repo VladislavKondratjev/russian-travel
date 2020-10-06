@@ -4,8 +4,8 @@
     font-style: normal;
     font-weight: normal;
     text-align: center;
-    min-width: 640px;
-    margin-top: 32px;
+    max-width: 640px;
+    margin-top: 17px;
     margin-bottom: 0;
 }
 
