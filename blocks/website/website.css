@@ -1,4 +1,9 @@
 .website {
-   /* margin-top: 86px; хз как выровнять по бейслайну*/
-    padding-left: 40px;
+    align-self: end;
+}
+
+@media screen and (max-width: 767px) {
+    .website {
+        display: none;
+    }
 }
