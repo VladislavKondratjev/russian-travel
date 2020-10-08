@@ -5,8 +5,10 @@
     margin-top: 35px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
     .intro__text {
-        max-width: calc(100% - 24px * 2);
+        max-width: 720px;
     }
 }
+
+ 
