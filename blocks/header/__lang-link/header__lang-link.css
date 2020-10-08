@@ -1,9 +1,10 @@
 .header__lang-link {
     text-decoration: none;
     color: #fff;
-    position: absolute;
-    right: 0;
-    top: 54px;
     font-size: 24px;
-    line-height: 28px;
+    line-height: 28px;    
+}
+
+.header__lang-link:first-of-type {
+    margin-right: 14px;
 }

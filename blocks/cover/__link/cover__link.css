@@ -1,5 +1,5 @@
 .cover__link {
-    background-size: contain;
+    background-size: cover;
     text-decoration: none;
     color: #fff;
     min-height: 740px;
@@ -15,7 +15,7 @@
     position: absolute;
     opacity: 0.3;
     background-image: url(../../../images/cover-trains.jpg);
-    background-size: contain;
+    background-size: cover;
     top: 0;
     left: 0;
     bottom: 0;
